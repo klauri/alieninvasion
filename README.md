@@ -5,7 +5,7 @@ Use **pip** to install requirements.
 
 Only required library is pygame.
 
-## Instalation Instructions
+## Installation Instructions
 Clone repository, then run command:
 ```
 pip install -r requirements.txt
