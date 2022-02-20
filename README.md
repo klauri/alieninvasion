@@ -5,8 +5,14 @@ Use **pip** to install requirements.
 
 Only required library is pygame.
 
-## Installation Instructions
-Clone repository, then run command:
+## Installation Instructions (for Linux)
+
+Clone repository and cd into directory:
+```
+git clone https://github.com/klauri/alieninvasion.git alieninvasion
+cd alieninvasion
+```
+Run command:
 ```
 pip install -r requirements.txt
 ```
