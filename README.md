@@ -10,6 +10,8 @@ Only required library is pygame.
 Clone repository and cd into directory:
 ```
 git clone https://github.com/klauri/alieninvasion.git alieninvasion
+```
+```
 cd alieninvasion
 ```
 Run command:
