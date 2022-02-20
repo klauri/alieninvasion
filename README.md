@@ -1,13 +1,18 @@
-# AlienInvasion
+# About AlienInvasion
 #### Python coded Space Invaders type game.
 
 Use **pip** to install requirements. 
 
 Only required library is pygame.
 
-Clone repository, and run
+## Instalation Instructions
+Clone repository, then run command:
 ```
 pip install -r requirements.txt
+```
+To launch the game:
+```
+python3 alien_invasion.py
 ```
 
 ## Game Controls
